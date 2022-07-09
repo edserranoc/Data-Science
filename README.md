@@ -1,7 +1,8 @@
-# Machine-Learning
+# Data Science
 
-The objetive of this repository is provide enough material to learn Machine Learning.
+The objetive of this repository is provide enough material to learn the most important topics related to Data Science.
 
+## Machine-Learning
 ## Materials:
 
 - Notes:
