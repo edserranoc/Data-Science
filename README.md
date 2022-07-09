@@ -3,7 +3,8 @@
 The objetive of this repository is provide enough material to learn the most important topics related to Data Science.
 
 ## Machine-Learning
-## Materials:
+
+**Materials:**
 
 - Notes:
     - My notes taken from Coursera Course:
