@@ -2,11 +2,6 @@
 
 The objetive of this repository is provide enough material to learn the most important topics related to Data Science.
 
-## Basics of Data Science
-- Links to fast access to pages with relevant information. 
-    - Towards Data Science
-    - Github repositories.
-
 ## Machine-Learning
 
 **Materials:**
